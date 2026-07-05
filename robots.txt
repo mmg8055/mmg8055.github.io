@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/sitemap.xml
+Sitemap: https://mmg8055.github.io/sitemap.xml
